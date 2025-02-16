@@ -1,5 +1,5 @@
 # Работа с базами данных
-В рамках домашнего задания отправлены SELECT-запросы и JOIN-запросы через DBeaver,а также создана коллекция в MongoDB
+В рамках домашнего задания работала с базами данных: MySQL и MongoDB. Для подключения к базе MySQL использовался инструмент DBeaver, а к MongoDB подключалась с помощью MongoDB Compass.
 
 [SELECT-запросы](https://docs.google.com/spreadsheets/d/1-ATCGKC0NVztW5Fsc5dxWiUpKAG0BxDlZSiqU-MGakg/edit?usp=sharing)
 
